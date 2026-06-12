@@ -1,0 +1,13 @@
+{
+  "name": "books-scraper",
+  "version": "1.0.0",
+  "description": "Web scraping project using Axios and Cheerio",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
+}
